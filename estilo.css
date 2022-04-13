@@ -1,3 +1,13 @@
-h1 {
+body {
     text-align: center;
+}
+
+a{
+    border: 2px solid red; ;
+    font-family: nunito, sans-serit;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    
+    
 }
